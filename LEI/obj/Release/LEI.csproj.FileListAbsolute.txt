@@ -1,0 +1,9 @@
+C:\Users\Adarsh\source\repos\LEI\LEI\bin\Release\LEI.exe.config
+C:\Users\Adarsh\source\repos\LEI\LEI\bin\Release\LEI.exe
+C:\Users\Adarsh\source\repos\LEI\LEI\bin\Release\LEI.pdb
+C:\Users\Adarsh\source\repos\LEI\LEI\bin\Release\Newtonsoft.Json.dll
+C:\Users\Adarsh\source\repos\LEI\LEI\bin\Release\Newtonsoft.Json.xml
+C:\Users\Adarsh\source\repos\LEI\LEI\obj\Release\LEI.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\source\repos\LEI\LEI\obj\Release\LEI.exe
+C:\Users\Adarsh\source\repos\LEI\LEI\obj\Release\LEI.pdb
+C:\Users\Adarsh\source\repos\LEI\LEI\obj\Release\LEI.csprojResolveAssemblyReference.cache
